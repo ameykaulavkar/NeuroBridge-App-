@@ -41,9 +41,9 @@ NeuroBridge was built for the **Apple Swift Student Challenge** and submitted to
 
 ## Inspiration
 
-For approximately **1 in 5 people**, reading is not a natural or effortless activity. Dyslexia, the most common reading-related neurodivergent condition, affects processing of written language — not intelligence. Yet almost all digital reading experiences (e-books, articles, PDFs, educational apps) are built with a one-size-fits-all typography that is hostile to the dyslexic brain: narrow letter-spacing, long unbroken paragraphs, standard serif or sans-serif fonts with visually similar letterforms, and no syllable indicators.
+For approximately **1 in 10 people**, reading is not a natural or effortless activity. Dyslexia, the most common reading-related neurodivergent condition, affects processing of written language — not intelligence. Yet almost all digital reading experiences (e-books, articles, PDFs, educational apps) are built with a one-size-fits-all typography that is hostile to the dyslexic brain: narrow letter-spacing, long unbroken paragraphs, standard serif or sans-serif fonts with visually similar letterforms, and no syllable indicators.
 
-We built NeuroBridge because we believe that with the right tools, every neurodivergent individual can read with confidence. The bridge metaphor is intentional — NeuroBridge meets users exactly where they are and helps them reach where they want to go.
+I built NeuroBridge because we believe that with the right tools, every neurodivergent individual can read with confidence. The bridge metaphor is intentional — NeuroBridge meets users exactly where they are and helps them reach where they want to go.
 
 ---
 
